@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/nervous-forest-q7mfhs/static/css/main.c821a614.css",
-    "main.js": "/nervous-forest-q7mfhs/static/js/main.212181a1.js",
+    "main.js": "/nervous-forest-q7mfhs/static/js/main.082d5c2c.js",
     "index.html": "/nervous-forest-q7mfhs/index.html",
     "main.c821a614.css.map": "/nervous-forest-q7mfhs/static/css/main.c821a614.css.map",
-    "main.212181a1.js.map": "/nervous-forest-q7mfhs/static/js/main.212181a1.js.map"
+    "main.082d5c2c.js.map": "/nervous-forest-q7mfhs/static/js/main.082d5c2c.js.map"
   },
   "entrypoints": [
     "static/css/main.c821a614.css",
-    "static/js/main.212181a1.js"
+    "static/js/main.082d5c2c.js"
   ]
 }
