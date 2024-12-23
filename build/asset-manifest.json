@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/nervous-forest-q7mfhs/static/css/main.c821a614.css",
+    "main.js": "/nervous-forest-q7mfhs/static/js/main.f73abaa7.js",
+    "index.html": "/nervous-forest-q7mfhs/index.html",
+    "main.c821a614.css.map": "/nervous-forest-q7mfhs/static/css/main.c821a614.css.map",
+    "main.f73abaa7.js.map": "/nervous-forest-q7mfhs/static/js/main.f73abaa7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c821a614.css",
+    "static/js/main.f73abaa7.js"
+  ]
+}
